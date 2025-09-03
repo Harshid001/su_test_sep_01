@@ -162,7 +162,8 @@ int main(){
     // }
 
 
-    // int num,count = 0;                 //9.
+
+    // int num,count = 0 ;                 //9.
     // int sum = 0;
     // float average;
 
